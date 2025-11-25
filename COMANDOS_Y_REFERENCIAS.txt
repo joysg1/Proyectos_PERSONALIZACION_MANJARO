@@ -306,6 +306,7 @@ pip install scienceplots --break-system-packages
 pip install flask-cors --break-system-packages
 pip install joblib --break-system-packages
 pip install Werkzeug --break-system-packages
+pip install matplotlib-venn --break-system-packages
 
 
 --- Nota: 
