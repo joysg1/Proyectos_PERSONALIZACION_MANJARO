@@ -1,6 +1,7 @@
 ++ ACTUALIZACIONES
 sudo pacman -Syu
 sudo pacman -Syu && yay -Syu
+yay -Sua --ignore packettracer,vmware-workstation (Excluye los paquetes packettracer y vmware-workstation)
 
 
 ++ INSTALAR PHP Y SQLITE
