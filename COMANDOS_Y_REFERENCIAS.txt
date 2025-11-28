@@ -312,10 +312,6 @@ pip install Werkzeug --break-system-packages
 pip install matplotlib-venn --break-system-packages
 
 
---- Nota: 
----- Antes instalar la siguiente dependencia: sudo pacman -S python-aifc
-
-
 ++ Comando para actualizar todas las librerias a la vez:
 pip list --outdated  | cut -d = -f 1 | xargs -n1 pip install -U --break-system-packages
 
